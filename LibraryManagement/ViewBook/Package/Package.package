@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="92bb9acc-f8cd-42b7-88f2-24c90bd9e561" solutionId="92bb9acc-f8cd-42b7-88f2-24c90bd9e561" resetWebServer="false" sharePointProductVersion="15.0" name="ViewBook" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8b8458d2-9d52-4abd-a5de-56399f1b2d36" />
+  </features>
+</package>
