@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/visualstudio/sharepoint/how-to-create-a-user-control-for-a-sharepoint-application-page-or-web-part?view=vs-2017
